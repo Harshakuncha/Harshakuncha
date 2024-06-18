@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm HARSHA VARDHAN REDDY KUNCHA</h1>
-<h3 align="center">Passionate Software Developer, Full-Stack and product</h3>
+<h1 align="center">Hi 👋, I'm HARSHA VARDHAN REDDY KUNCHA, Master's Student at Arizona State University</h1>
+<h3 align="center"> Passionate Software Developer, Full-Stack and product</h3>
 <h3 align="center"> Former Full-Stack Software Developer at Oracle</h3>
 
 - 🌱 I’m currently learning **Machine learning, Statistics, CNN's.**
