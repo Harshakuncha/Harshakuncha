@@ -8,7 +8,7 @@
 
 - 📫 Connect me at  **harshareddy.kuncha@gmail.com**
 
-- 📄 Know about me [Resume](https://drive.google.com/file/d/1elis5kcg0A0-D5GMaP4lT9UbIGd6zKfq/view?usp=drive_link)
+- 📄 Know about me [Resume](https://drive.google.com/file/d/1ajqjYYrw5IFPWc6okR71jRUto_44z3Xy/view?usp=drive_link)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/harshakuncha/)
 <p align="left">
 </p>
