@@ -2,7 +2,7 @@
 <h3 align="center"> Passionate Software Developer, Full-Stack and product.  Actively looking for Internship/ Co-op Opportunities.</h3>
 <h3 align="center"> Former Full-Stack Software Developer at Oracle</h3>
 
-- 🌱 I’m currently learning : **Machine learning, Statistics, CNN's.**
+- 🌱 I’m currently learning : **TypeScript and preparing for AWS Developer Associate Exam**
 
 - 💬 Ask me about : **Product Development/ Full-Stack.**
 
