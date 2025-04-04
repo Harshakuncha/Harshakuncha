@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HARSHA VARDHAN REDDY KUNCHA, Master's Student at Arizona State University</h1>
-<h3 align="center"> Passionate Software Developer, Full-Stack and product.  Actively looking for Internship/ Co-op Opportunities.</h3>
-<h3 align="center"> Former Full-Stack Software Developer at Oracle</h3>
+<h3 align="center"> Passionate Software Developer, Full-Stack and product.  Actively looking for Full Time Positions.</h3>
+<h3 align="center"> Former Software Developer at Zunik Energies,Oracle and Samsung</h3>
 
 - 🌱 I’m currently learning : **TypeScript and preparing for AWS Developer Associate Exam**
 
